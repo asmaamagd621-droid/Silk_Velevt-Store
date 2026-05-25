@@ -1,0 +1,6 @@
+{
+  "name": "Silk& velevt",
+  "description": "متجر إلكتروني فاخر لمنتجات التجميل والعناية بالمرأة مع خدمة الدفع عند الاستلام والتوصيل لجميع محافظات مصر",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

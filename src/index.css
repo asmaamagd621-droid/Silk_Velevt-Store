@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@theme {
+  --color-luxury-beige: #F5F1EB;
+  --color-luxury-gold: #C9A86A;
+  --color-luxury-gold-hover: #B49354;
+  --color-luxury-charcoal: #2B2B2B;
+  
+  --font-sans: "Inter", "Cairo", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", " Amiri", Georgia, serif;
+}
+
+@layer base {
+  body {
+    background-color: #F5F1EB !important;
+    color: #2B2B2B !important;
+  }
+  
+  /* Apply luxury text colors globally */
+  h1, h2, h3, h4, h5, h6 {
+    color: #2B2B2B;
+  }
+}
